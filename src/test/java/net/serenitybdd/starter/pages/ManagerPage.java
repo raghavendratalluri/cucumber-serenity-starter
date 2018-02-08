@@ -1,5 +1,12 @@
+/**
+ * 
+ */
 package net.serenitybdd.starter.pages;
 
+/**
+ * @author RAGHAVENDRA TALLURI
+ * 
+ */
 import org.openqa.selenium.WebElement;
 
 import net.serenitybdd.core.annotations.findby.FindBy;
