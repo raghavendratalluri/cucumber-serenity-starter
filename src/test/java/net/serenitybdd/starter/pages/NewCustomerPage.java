@@ -1,3 +1,6 @@
+/**
+ * 
+ */
 package net.serenitybdd.starter.pages;
 
 /**
